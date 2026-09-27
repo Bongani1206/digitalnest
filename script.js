@@ -6,7 +6,8 @@ const products=[
     "price": 99,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Draft useful content from one clear brief"
+    "desc": "Draft useful content from one clear brief",
+    "image": "digitalnest-images/01-ai-content-prompt-kit.png"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@ const products=[
     "price": 99,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Write faster, clearer replies without losing empathy"
+    "desc": "Write faster, clearer replies without losing empathy",
+    "image": "digitalnest-images/02-ai-customer-support-prompt-kit.png"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@ const products=[
     "price": 89,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Turn a question into a careful learning workflow"
+    "desc": "Turn a question into a careful learning workflow",
+    "image": "digitalnest-images/03-ai-research-and-learning-prompts.png"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@ const products=[
     "price": 119,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Plan offers, operations, and customer messages"
+    "desc": "Plan offers, operations, and customer messages",
+    "image": "digitalnest-images/04-ai-small-business-prompt-kit.png"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@ const products=[
     "price": 109,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Prepare client work with a repeatable workflow"
+    "desc": "Prepare client work with a repeatable workflow",
+    "image": "digitalnest-images/05-ai-freelancer-prompt-kit.png"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@ const products=[
     "price": 89,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Use AI to plan, prioritize, and review work"
+    "desc": "Use AI to plan, prioritize, and review work",
+    "image": "digitalnest-images/06-ai-productivity-prompt-kit.png"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@ const products=[
     "price": 129,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Test a business idea before investing heavily"
+    "desc": "Test a business idea before investing heavily",
+    "image": "digitalnest-images/07-business-idea-validation-workbook.png"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@ const products=[
     "price": 149,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Build a concise working plan"
+    "desc": "Build a concise working plan",
+    "image": "digitalnest-images/08-simple-business-plan-workbook.png"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@ const products=[
     "price": 119,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Estimate costs and choose a sustainable price"
+    "desc": "Estimate costs and choose a sustainable price",
+    "image": "digitalnest-images/09-pricing-and-profit-planner.png"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@ const products=[
     "price": 99,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Have more useful conversations with potential customers"
+    "desc": "Have more useful conversations with potential customers",
+    "image": "digitalnest-images/10-customer-discovery-interview-kit.png"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@ const products=[
     "price": 109,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Organize a small digital product launch"
+    "desc": "Organize a small digital product launch",
+    "image": "digitalnest-images/11-launch-checklist-and-timeline.png"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@ const products=[
     "price": 119,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Start client work with clear expectations"
+    "desc": "Start client work with clear expectations",
+    "image": "digitalnest-images/12-client-onboarding-toolkit.png"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Plan four weeks of focused content"
+    "desc": "Plan four weeks of focused content",
+    "image": "digitalnest-images/13-social-media-calendar-templates.png"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Draft useful emails with clear calls to action"
+    "desc": "Draft useful emails with clear calls to action",
+    "image": "digitalnest-images/14-email-newsletter-templates.png"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@ const products=[
     "price": 109,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Explain a product clearly and honestly"
+    "desc": "Explain a product clearly and honestly",
+    "image": "digitalnest-images/15-digital-product-sales-page-kit.png"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@ const products=[
     "price": 119,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Scope work and present a clear offer"
+    "desc": "Scope work and present a clear offer",
+    "image": "digitalnest-images/16-proposal-and-quote-templates.png"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@ const products=[
     "price": 79,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Make meetings and decisions easier to follow"
+    "desc": "Make meetings and decisions easier to follow",
+    "image": "digitalnest-images/17-meeting-and-decision-templates.png"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Plan visual assets before opening a design tool"
+    "desc": "Plan visual assets before opening a design tool",
+    "image": "digitalnest-images/18-canva-content-brief-pack.png"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@ const products=[
     "price": 79,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Turn priorities into a realistic week"
+    "desc": "Turn priorities into a realistic week",
+    "image": "digitalnest-images/19-weekly-focus-planner.png"
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Plan one useful day at a time"
+    "desc": "Plan one useful day at a time",
+    "image": "digitalnest-images/20-daily-execution-planner.png"
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@ const products=[
     "price": 79,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Connect a goal to a repeatable habit"
+    "desc": "Connect a goal to a repeatable habit",
+    "image": "digitalnest-images/21-habit-and-goal-tracker.png"
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@ const products=[
     "price": 99,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Break a project into observable milestones"
+    "desc": "Break a project into observable milestones",
+    "image": "digitalnest-images/22-project-milestone-planner.png"
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Create a manageable file and inbox system"
+    "desc": "Create a manageable file and inbox system",
+    "image": "digitalnest-images/23-digital-declutter-workbook.png"
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Study with retrieval and spaced review"
+    "desc": "Study with retrieval and spaced review",
+    "image": "digitalnest-images/24-study-session-planner.png"
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@ const products=[
     "price": 149,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "A practical guide from idea to first launch"
+    "desc": "A practical guide from idea to first launch",
+    "image": "digitalnest-images/25-start-selling-digital-products.png"
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@ const products=[
     "price": 129,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Use AI carefully for routine work"
+    "desc": "Use AI carefully for routine work",
+    "image": "digitalnest-images/26-practical-ai-for-everyday-work.png"
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@ const products=[
     "price": 119,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Create a repeatable content process"
+    "desc": "Create a repeatable content process",
+    "image": "digitalnest-images/27-a-beginner-guide-to-content-planning.png"
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@ const products=[
     "price": 139,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Document the work behind a small business"
+    "desc": "Document the work behind a small business",
+    "image": "digitalnest-images/28-the-solo-business-operations-guide.png"
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@ const products=[
     "price": 129,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Move from enquiry to handover with confidence"
+    "desc": "Move from enquiry to handover with confidence",
+    "image": "digitalnest-images/29-freelance-client-workflow-guide.png"
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@ const products=[
     "price": 99,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Evaluate digital income ideas with realistic expectations"
+    "desc": "Evaluate digital income ideas with realistic expectations",
+    "image": "digitalnest-images/30-digital-income-reality-check.png"
   }
 ];
 let cart=[];
@@ -277,7 +307,7 @@ const checkoutApiUrl="";
 const money=n=>"R"+n.toFixed(0);
 function renderProducts(list=products){
  document.getElementById("products").innerHTML=list.map(p=>`<article class="product">
- <div class="product-art"><span class="tag">${p.tag}</span>${p.icon}</div>
+ <div class="product-art"><img src="${p.image}" alt="" loading="lazy" decoding="async" width="1254" height="1254"><span class="tag">${p.tag}</span></div>
  <div class="product-info"><h3>${p.name}</h3><p>${p.desc}</p>
  <div class="price-row"><span class="price">${money(p.price)}</span><button class="add" onclick="addToCart(${p.id})">+ Add</button></div></div></article>`).join("");
 }
