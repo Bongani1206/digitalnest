@@ -5,13 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DigitalNest AI | Smart Digital Products</title>
   <meta name="description" content="DigitalNest AI — smart digital products, AI prompts, templates, guides and business resources.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%236d4aff'/%3E%3Cpath d='M32 8l6 18 18 6-18 6-6 18-6-18-18-6 18-6z' fill='white'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="announcement">✨ Launch special: Get 20% off selected digital products this week</div>
+  <div class="announcement">30 practical digital resources for work and business</div>
 
   <header class="header">
     <a class="logo" href="#"><span class="logo-mark">✦</span> DigitalNest <b>AI</b></a>
@@ -34,11 +35,11 @@
           <a class="btn primary" href="#shop">Shop digital products →</a>
           <a class="btn ghost" href="#categories">Explore categories</a>
         </div>
-        <div class="trust"><span>⚡ Instant downloads</span><span>🔒 Secure checkout</span><span>🤖 AI-powered</span></div>
+        <div class="trust"><span>📄 30 downloadable PDFs</span><span>🔒 PayFast setup in progress</span><span>🤖 AI-powered</span></div>
       </div>
       <div class="hero-card">
         <div class="orb"></div>
-        <div class="floating-card card-one"><small>AI PRODUCTIVITY</small><strong>Prompt Vault</strong><span>250+ ready-to-use prompts</span></div>
+        <div class="floating-card card-one"><small>AI PRODUCTIVITY</small><strong>Prompt Vault</strong><span>Original prompt and worksheet PDFs</span></div>
         <div class="floating-card card-two"><small>BUSINESS KIT</small><strong>Start & Grow</strong><span>Templates + checklists</span></div>
         <div class="hero-center"><span>✦</span><b>DigitalNest</b><small>SMART DIGITAL GOODS</small></div>
       </div>
@@ -57,7 +58,7 @@
 
     <section id="shop" class="section shop">
       <div class="section-head">
-        <div><div class="eyebrow">FEATURED PRODUCTS</div><h2>Digital products people love</h2></div>
+        <div><div class="eyebrow">DIGITAL LIBRARY</div><h2>Browse 30 practical resources</h2></div>
         <div class="filters">
           <button class="filter active" onclick="filterProducts('All')">All</button>
           <button class="filter" onclick="filterProducts('AI Tools')">AI</button>
@@ -72,21 +73,21 @@
       <div><div class="eyebrow">WHY DIGITALNEST AI</div><h2>Small digital products.<br>Big practical value.</h2></div>
       <div class="why-grid">
         <article><span>01</span><h3>Made to be useful</h3><p>No fluff. Each product is designed to help you complete a real task faster.</p></article>
-        <article><span>02</span><h3>Instant access</h3><p>Buy a digital product and get your download without waiting for shipping.</p></article>
+        <article><span>02</span><h3>Instant access</h3><p>Digital files are delivered online after a confirmed purchase. Delivery is being set up.</p></article>
         <article><span>03</span><h3>Built for modern work</h3><p>AI, productivity and business resources for the way people work today.</p></article>
       </div>
     </section>
 
     <section class="newsletter">
-      <div><div class="eyebrow">JOIN THE NEST</div><h2>Get useful digital finds in your inbox.</h2><p>New products, AI tips and occasional discounts. No spam.</p></div>
-      <form onsubmit="subscribe(event)"><input id="email" type="email" placeholder="Your email address" required><button class="btn primary">Subscribe</button></form>
+      <div><div class="eyebrow">JOIN THE NEST</div><h2>Get useful digital finds in your inbox.</h2><p>Product news and occasional useful tips. Signup is coming soon.</p></div>
+      <p class="newsletter-pending">Email updates are coming soon.</p>
     </section>
 
     <section id="faq" class="section faq">
       <div class="eyebrow">FAQ</div><h2>Questions, answered.</h2>
-      <details><summary>How do digital products work?</summary><p>After a successful purchase, customers receive a download link. This demo storefront simulates the cart and checkout flow.</p></details>
+      <details><summary>How do digital products work?</summary><p>Products are digital files. Checkout and delivery are being set up; downloads will become available after payment is confirmed.</p></details>
       <details><summary>Can I sell my own products here?</summary><p>Yes. The product catalogue is data-driven, so products, prices and descriptions can be replaced with your real inventory.</p></details>
-      <details><summary>Can this accept payments?</summary><p>Yes. The front end is ready to connect to a payment provider such as PayFast, Peach Payments or Stripe. A secure server-side checkout should be added before going live.</p></details>
+      <details><summary>Can I pay now?</summary><p>PayFast checkout is being connected. The payment button will become available when secure payment processing and product delivery are ready.</p></details>
     </section>
   </main>
 
@@ -100,8 +101,24 @@
     <div class="cart-head"><h2>Your Cart</h2><button onclick="toggleCart()">×</button></div>
     <div id="cartItems"></div>
     <div class="cart-total"><span>Total</span><strong id="cartTotal">R0</strong></div>
-    <button class="btn primary checkout" onclick="checkout()">Proceed to checkout</button>
+    <button class="btn primary checkout" onclick="checkout()">Review checkout</button>
   </aside>
+  <section id="checkoutDialog" class="checkout-dialog" role="dialog" aria-modal="true" aria-labelledby="checkoutTitle" hidden>
+    <div class="checkout-card">
+      <button class="checkout-close" type="button" aria-label="Close checkout" onclick="closeCheckout()">×</button>
+      <div class="eyebrow">SECURE CHECKOUT</div>
+      <h2 id="checkoutTitle">Review your order</h2>
+      <p class="checkout-intro">Enter the email address where you want to receive your digital products.</p>
+      <div id="checkoutSummary" class="checkout-summary"></div>
+      <form id="checkoutForm" onsubmit="submitCheckout(event)">
+        <label for="customerEmail">Email address</label>
+        <input id="customerEmail" name="email" type="email" autocomplete="email" required placeholder="you@example.com">
+        <p id="checkoutStatus" class="checkout-status" role="status"></p>
+        <button id="payButton" class="btn primary" type="submit" disabled>Pay with PayFast</button>
+      </form>
+      <p class="checkout-note">Payments are not yet active. No money will be taken until the store is connected to PayFast.</p>
+    </div>
+  </section>
   <div id="overlay" class="overlay" onclick="toggleCart()"></div>
   <div id="toast" class="toast"></div>
   <script src="script.js"></script>
