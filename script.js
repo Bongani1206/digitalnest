@@ -6,8 +6,7 @@ const products=[
     "price": 99,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Draft useful content from one clear brief",
-    "image": "digitalnest-images/01-ai-content-prompt-kit.png"
+    "desc": "Draft useful content from one clear brief"
   },
   {
     "id": 2,
@@ -16,8 +15,7 @@ const products=[
     "price": 99,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Write faster, clearer replies without losing empathy",
-    "image": "digitalnest-images/02-ai-customer-support-prompt-kit.png"
+    "desc": "Write faster, clearer replies without losing empathy"
   },
   {
     "id": 3,
@@ -26,8 +24,7 @@ const products=[
     "price": 89,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Turn a question into a careful learning workflow",
-    "image": "digitalnest-images/03-ai-research-and-learning-prompts.png"
+    "desc": "Turn a question into a careful learning workflow"
   },
   {
     "id": 4,
@@ -36,8 +33,7 @@ const products=[
     "price": 119,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Plan offers, operations, and customer messages",
-    "image": "digitalnest-images/04-ai-small-business-prompt-kit.png"
+    "desc": "Plan offers, operations, and customer messages"
   },
   {
     "id": 5,
@@ -46,8 +42,7 @@ const products=[
     "price": 109,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Prepare client work with a repeatable workflow",
-    "image": "digitalnest-images/05-ai-freelancer-prompt-kit.png"
+    "desc": "Prepare client work with a repeatable workflow"
   },
   {
     "id": 6,
@@ -56,8 +51,7 @@ const products=[
     "price": 89,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Use AI to plan, prioritize, and review work",
-    "image": "digitalnest-images/06-ai-productivity-prompt-kit.png"
+    "desc": "Use AI to plan, prioritize, and review work"
   },
   {
     "id": 7,
@@ -66,8 +60,7 @@ const products=[
     "price": 129,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Test a business idea before investing heavily",
-    "image": "digitalnest-images/07-business-idea-validation-workbook.png"
+    "desc": "Test a business idea before investing heavily"
   },
   {
     "id": 8,
@@ -76,8 +69,7 @@ const products=[
     "price": 149,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Build a concise working plan",
-    "image": "digitalnest-images/08-simple-business-plan-workbook.png"
+    "desc": "Build a concise working plan"
   },
   {
     "id": 9,
@@ -86,8 +78,7 @@ const products=[
     "price": 119,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Estimate costs and choose a sustainable price",
-    "image": "digitalnest-images/09-pricing-and-profit-planner.png"
+    "desc": "Estimate costs and choose a sustainable price"
   },
   {
     "id": 10,
@@ -96,8 +87,7 @@ const products=[
     "price": 99,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Have more useful conversations with potential customers",
-    "image": "digitalnest-images/10-customer-discovery-interview-kit.png"
+    "desc": "Have more useful conversations with potential customers"
   },
   {
     "id": 11,
@@ -106,8 +96,7 @@ const products=[
     "price": 109,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Organize a small digital product launch",
-    "image": "digitalnest-images/11-launch-checklist-and-timeline.png"
+    "desc": "Organize a small digital product launch"
   },
   {
     "id": 12,
@@ -116,8 +105,7 @@ const products=[
     "price": 119,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Start client work with clear expectations",
-    "image": "digitalnest-images/12-client-onboarding-toolkit.png"
+    "desc": "Start client work with clear expectations"
   },
   {
     "id": 13,
@@ -126,8 +114,7 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Plan four weeks of focused content",
-    "image": "digitalnest-images/13-social-media-calendar-templates.png"
+    "desc": "Plan four weeks of focused content"
   },
   {
     "id": 14,
@@ -136,8 +123,7 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Draft useful emails with clear calls to action",
-    "image": "digitalnest-images/14-email-newsletter-templates.png"
+    "desc": "Draft useful emails with clear calls to action"
   },
   {
     "id": 15,
@@ -146,8 +132,7 @@ const products=[
     "price": 109,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Explain a product clearly and honestly",
-    "image": "digitalnest-images/15-digital-product-sales-page-kit.png"
+    "desc": "Explain a product clearly and honestly"
   },
   {
     "id": 16,
@@ -156,8 +141,7 @@ const products=[
     "price": 119,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Scope work and present a clear offer",
-    "image": "digitalnest-images/16-proposal-and-quote-templates.png"
+    "desc": "Scope work and present a clear offer"
   },
   {
     "id": 17,
@@ -166,8 +150,7 @@ const products=[
     "price": 79,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Make meetings and decisions easier to follow",
-    "image": "digitalnest-images/17-meeting-and-decision-templates.png"
+    "desc": "Make meetings and decisions easier to follow"
   },
   {
     "id": 18,
@@ -176,8 +159,7 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Plan visual assets before opening a design tool",
-    "image": "digitalnest-images/18-canva-content-brief-pack.png"
+    "desc": "Plan visual assets before opening a design tool"
   },
   {
     "id": 19,
@@ -186,8 +168,7 @@ const products=[
     "price": 79,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Turn priorities into a realistic week",
-    "image": "digitalnest-images/19-weekly-focus-planner.png"
+    "desc": "Turn priorities into a realistic week"
   },
   {
     "id": 20,
@@ -196,8 +177,7 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Plan one useful day at a time",
-    "image": "digitalnest-images/20-daily-execution-planner.png"
+    "desc": "Plan one useful day at a time"
   },
   {
     "id": 21,
@@ -206,8 +186,7 @@ const products=[
     "price": 79,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Connect a goal to a repeatable habit",
-    "image": "digitalnest-images/21-habit-and-goal-tracker.png"
+    "desc": "Connect a goal to a repeatable habit"
   },
   {
     "id": 22,
@@ -216,8 +195,7 @@ const products=[
     "price": 99,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Break a project into observable milestones",
-    "image": "digitalnest-images/22-project-milestone-planner.png"
+    "desc": "Break a project into observable milestones"
   },
   {
     "id": 23,
@@ -226,8 +204,7 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Create a manageable file and inbox system",
-    "image": "digitalnest-images/23-digital-declutter-workbook.png"
+    "desc": "Create a manageable file and inbox system"
   },
   {
     "id": 24,
@@ -236,8 +213,7 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Study with retrieval and spaced review",
-    "image": "digitalnest-images/24-study-session-planner.png"
+    "desc": "Study with retrieval and spaced review"
   },
   {
     "id": 25,
@@ -246,8 +222,7 @@ const products=[
     "price": 149,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "A practical guide from idea to first launch",
-    "image": "digitalnest-images/25-start-selling-digital-products.png"
+    "desc": "A practical guide from idea to first launch"
   },
   {
     "id": 26,
@@ -256,8 +231,7 @@ const products=[
     "price": 129,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Use AI carefully for routine work",
-    "image": "digitalnest-images/26-practical-ai-for-everyday-work.png"
+    "desc": "Use AI carefully for routine work"
   },
   {
     "id": 27,
@@ -266,8 +240,7 @@ const products=[
     "price": 119,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Create a repeatable content process",
-    "image": "digitalnest-images/27-a-beginner-guide-to-content-planning.png"
+    "desc": "Create a repeatable content process"
   },
   {
     "id": 28,
@@ -276,8 +249,7 @@ const products=[
     "price": 139,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Document the work behind a small business",
-    "image": "digitalnest-images/28-the-solo-business-operations-guide.png"
+    "desc": "Document the work behind a small business"
   },
   {
     "id": 29,
@@ -286,8 +258,7 @@ const products=[
     "price": 129,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Move from enquiry to handover with confidence",
-    "image": "digitalnest-images/29-freelance-client-workflow-guide.png"
+    "desc": "Move from enquiry to handover with confidence"
   },
   {
     "id": 30,
@@ -296,18 +267,17 @@ const products=[
     "price": 99,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Evaluate digital income ideas with realistic expectations",
-    "image": "digitalnest-images/30-digital-income-reality-check.png"
+    "desc": "Evaluate digital income ideas with realistic expectations"
   }
 ];
 let cart=[];
-// Set this to a trusted HTTPS checkout service after the PayFast integration is deployed.
-// The service must calculate prices from its own catalogue and return { redirectUrl }.
-const checkoutApiUrl="";
+// Set this only after deploying and testing the payment service in sandbox mode.
+const paymentServiceBase="https://digitalnest-payments.digitalnest1206.workers.dev";
+const checkoutApiUrl=paymentServiceBase?paymentServiceBase.replace(/\/$/,"")+"/checkout":"";
 const money=n=>"R"+n.toFixed(0);
 function renderProducts(list=products){
  document.getElementById("products").innerHTML=list.map(p=>`<article class="product">
- <div class="product-art"><img src="${p.image}" alt="" loading="lazy" decoding="async" width="1254" height="1254"><span class="tag">${p.tag}</span></div>
+ <div class="product-art"><span class="tag">${p.tag}</span>${p.icon}</div>
  <div class="product-info"><h3>${p.name}</h3><p>${p.desc}</p>
  <div class="price-row"><span class="price">${money(p.price)}</span><button class="add" onclick="addToCart(${p.id})">+ Add</button></div></div></article>`).join("");
 }
@@ -349,11 +319,35 @@ async function submitCheckout(e){
   const response=await fetch(checkoutApiUrl,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:document.getElementById("customerEmail").value,productIds:[...new Set(cart.map(p=>p.id))]})});
   if(!response.ok)throw new Error("Checkout is unavailable right now. Please try again later.");
   const data=await response.json();
-  const url=new URL(data.redirectUrl);
-  if(url.protocol!=="https:"||!(["www.payfast.co.za","sandbox.payfast.co.za"].includes(url.hostname)))throw new Error("The payment link could not be verified.");
+  const url=new URL(data.checkoutUrl);
+  if(url.protocol!=="https:"||url.origin!==new URL(paymentServiceBase).origin||!/^\/pay\/[0-9a-f]{64}$/.test(url.pathname))throw new Error("The payment link could not be verified.");
   window.location.assign(url.href);
  }catch(error){status.textContent=error.message;button.disabled=false}
 }
 function subscribe(e){e.preventDefault();showToast("Thanks! You're on the DigitalNest list.");e.target.reset()}
 function showToast(t){const x=document.getElementById("toast");x.textContent=t;x.classList.add("show");setTimeout(()=>x.classList.remove("show"),2600)}
 renderProducts();updateCart();
+async function showOrderResult(){
+ const params=new URLSearchParams(location.search),token=params.get("order"),cancel=params.get("cancel");
+ if(!token&&!cancel)return;
+ let box=document.getElementById("orderResult");if(!box){box=document.createElement("section");box.id="orderResult";box.style.cssText="max-width:1000px;margin:24px auto;padding:24px;background:white;color:#222";const main=document.querySelector("main");if(main)main.prepend(box);else document.body.append(box)}box.hidden=false;box.scrollIntoView({behavior:"smooth"});
+ if(cancel){box.innerHTML="<h2>Payment cancelled</h2><p>No download has been released. Your cart is still available.</p>";return}
+ if(!/^[0-9a-f]{64}$/.test(token)||!paymentServiceBase){box.textContent="Order status is unavailable.";return}
+ box.innerHTML="<h2>Checking your payment</h2><p>PayFast confirmation can take a moment. Keep this page open.</p>";
+ const base=paymentServiceBase.replace(/\/$/,"");
+ for(let attempt=0;attempt<30;attempt++){
+  try{
+   const response=await fetch(base+"/order/"+token,{cache:"no-store"});if(!response.ok)throw Error();
+   const order=await response.json();
+   if(order.status==="paid"){
+    const list=document.createElement("ul");
+    order.items.forEach(item=>{const li=document.createElement("li"),a=document.createElement("a");a.textContent="Download "+item.name;a.href=base+item.url;li.append(a);list.append(li)});
+    box.replaceChildren();const heading=document.createElement("h2");heading.textContent="Your downloads are ready";const note=document.createElement("p");note.textContent="Save this page link so you can download again later. Keep the link private.";box.append(heading,note,list);return;
+   }
+   if(order.status==="failed"){box.innerHTML="<h2>Payment not completed</h2><p>No download has been released. Please try again.</p>";return}
+  }catch{box.innerHTML="<h2>Still checking</h2><p>We could not confirm your payment yet. Refresh this page in a moment.</p>";return}
+  await new Promise(resolve=>setTimeout(resolve,2000));
+ }
+ box.innerHTML="<h2>Still checking</h2><p>Your payment has not been confirmed yet. Refresh this page in a moment. Your downloads will appear here after confirmation.</p>";
+}
+showOrderResult();
