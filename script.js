@@ -6,7 +6,7 @@ const products=[
     "price": 99,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Draft useful content from one clear brief"
+    "desc": "Draft useful content from one clear brief","image": "01-ai-content-prompt-kit.jpg"
   },
   {
     "id": 2,
