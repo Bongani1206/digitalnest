@@ -15,7 +15,8 @@ const products=[
     "price": 99,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Write faster, clearer replies without losing empathy","image": "02-freelance-client-workflow.jpg"
+    "desc": "Write faster, clearer replies without losing empathy",
+    "image": "02-ai-customer-support-prompt-kit.jpg"
   },
   {
     "id": 3,
@@ -24,7 +25,8 @@ const products=[
     "price": 89,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Turn a question into a careful learning workflow","image": "03-digital-income-reality-check.jpg"
+    "desc": "Turn a question into a careful learning workflow",
+    "image": "03-ai-research-and-learning-prompts.jpg"
   },
   {
     "id": 4,
@@ -33,7 +35,8 @@ const products=[
     "price": 119,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Plan offers, operations, and customer messages","image": "04-website-building-step-by-step.jpg"
+    "desc": "Plan offers, operations, and customer messages",
+    "image": "04-ai-small-business-prompt-kit.jpg"
   },
   {
     "id": 5,
@@ -42,7 +45,8 @@ const products=[
     "price": 109,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Prepare client work with a repeatable workflow","image": "05-social-media-growth.jpg"
+    "desc": "Prepare client work with a repeatable workflow",
+    "image": "05-ai-freelancer-prompt-kit.jpg"
   },
   {
     "id": 6,
@@ -51,7 +55,8 @@ const products=[
     "price": 89,
     "icon": "🤖",
     "tag": "PDF",
-    "desc": "Use AI to plan, prioritize, and review work","image": "06-passive-income-ideas.jpg"
+    "desc": "Use AI to plan, prioritize, and review work",
+    "image": "06-ai-productivity-prompt-kit.jpg"
   },
   {
     "id": 7,
@@ -60,7 +65,8 @@ const products=[
     "price": 129,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Test a business idea before investing heavily","image": "07-productivity-planner.jpg"
+    "desc": "Test a business idea before investing heavily",
+    "image": "07-business-idea-validation-workbook.jpg"
   },
   {
     "id": 8,
@@ -69,7 +75,8 @@ const products=[
     "price": 149,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Build a concise working plan","image": "08-side-hustle-starter.jpg"
+    "desc": "Build a concise working plan",
+    "image": "08-simple-business-plan-workbook.jpg"
   },
   {
     "id": 9,
@@ -78,7 +85,8 @@ const products=[
     "price": 119,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Estimate costs and choose a sustainable price","image": "09-chatgpt-business-guide.jpg"
+    "desc": "Estimate costs and choose a sustainable price",
+    "image": "09-pricing-and-profit-planner.jpg"
   },
   {
     "id": 10,
@@ -87,7 +95,8 @@ const products=[
     "price": 99,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Have more useful conversations with potential customers","image": "10-canva-design-mastery.jpg"
+    "desc": "Have more useful conversations with potential customers",
+    "image": "10-customer-discovery-interview-kit.jpg"
   },
   {
     "id": 11,
@@ -96,7 +105,8 @@ const products=[
     "price": 109,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Organize a small digital product launch","image": "11-video-editing-for-beginners.jpg"
+    "desc": "Organize a small digital product launch",
+    "image": "11-launch-checklist-and-timeline.jpg"
   },
   {
     "id": 12,
@@ -105,7 +115,8 @@ const products=[
     "price": 119,
     "icon": "💼",
     "tag": "PDF",
-    "desc": "Start client work with clear expectations","image": "12-youtube-growth-guide.jpg"
+    "desc": "Start client work with clear expectations",
+    "image": "12-client-onboarding-toolkit.jpg"
   },
   {
     "id": 13,
@@ -114,7 +125,8 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Plan four weeks of focused content","image": "13-instagram-marketing-guide.jpg"
+    "desc": "Plan four weeks of focused content",
+    "image": "13-social-media-calendar-templates.jpg"
   },
   {
     "id": 14,
@@ -123,7 +135,8 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Draft useful emails with clear calls to action","image": "14-tiktok-growth-guide.jpg"
+    "desc": "Draft useful emails with clear calls to action",
+    "image": "14-email-newsletter-templates.jpg"
   },
   {
     "id": 15,
@@ -132,7 +145,8 @@ const products=[
     "price": 109,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Explain a product clearly and honestly","image": "15-facebook-marketing-guide.jpg"
+    "desc": "Explain a product clearly and honestly",
+    "image": "15-digital-product-sales-page-kit.jpg"
   },
   {
     "id": 16,
@@ -141,7 +155,8 @@ const products=[
     "price": 119,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Scope work and present a clear offer","image": "16-linkedin-career-guide.jpg"
+    "desc": "Scope work and present a clear offer",
+    "image": "16-proposal-and-quote-templates.jpg"
   },
   {
     "id": 17,
@@ -150,7 +165,8 @@ const products=[
     "price": 79,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Make meetings and decisions easier to follow","image": "17-email-marketing-made-simple.jpg"
+    "desc": "Make meetings and decisions easier to follow",
+    "image": "17-meeting-and-decision-templates.jpg"
   },
   {
     "id": 18,
@@ -159,7 +175,8 @@ const products=[
     "price": 89,
     "icon": "📄",
     "tag": "PDF",
-    "desc": "Plan visual assets before opening a design tool","image": "18-affiliate-marketing-starter.jpg"
+    "desc": "Plan visual assets before opening a design tool",
+    "image": "18-canva-content-brief-pack.jpg"
   },
   {
     "id": 19,
@@ -168,7 +185,8 @@ const products=[
     "price": 79,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Turn priorities into a realistic week","image": "19-online-business-startup.jpg"
+    "desc": "Turn priorities into a realistic week",
+    "image": "19-weekly-focus-planner.jpg"
   },
   {
     "id": 20,
@@ -177,7 +195,8 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Plan one useful day at a time","image": "20-ecommerce-guide.jpg"
+    "desc": "Plan one useful day at a time",
+    "image": "20-daily-execution-planner.jpg"
   },
   {
     "id": 21,
@@ -186,7 +205,8 @@ const products=[
     "price": 79,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Connect a goal to a repeatable habit","image": "21-printable-templates-bundle.jpg"
+    "desc": "Connect a goal to a repeatable habit",
+    "image": "21-habit-and-goal-tracker.jpg"
   },
   {
     "id": 22,
@@ -195,7 +215,8 @@ const products=[
     "price": 99,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Break a project into observable milestones","image": "22-business-planner.jpg"
+    "desc": "Break a project into observable milestones",
+    "image": "22-project-milestone-planner.jpg"
   },
   {
     "id": 23,
@@ -204,7 +225,8 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Create a manageable file and inbox system","image": "23-financial-literacy-guide.jpg"
+    "desc": "Create a manageable file and inbox system",
+    "image": "23-digital-declutter-workbook.jpg"
   },
   {
     "id": 24,
@@ -213,7 +235,8 @@ const products=[
     "price": 69,
     "icon": "⚡",
     "tag": "PDF",
-    "desc": "Study with retrieval and spaced review","image": "24-investing-for-beginners.jpg"
+    "desc": "Study with retrieval and spaced review",
+    "image": "24-study-session-planner.jpg"
   },
   {
     "id": 25,
@@ -222,7 +245,8 @@ const products=[
     "price": 149,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "A practical guide from idea to first launch","image": "25-digital-product-creation.jpg"
+    "desc": "A practical guide from idea to first launch",
+    "image": "25-start-selling-digital-products.jpg"
   },
   {
     "id": 26,
@@ -231,7 +255,8 @@ const products=[
     "price": 129,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Use AI carefully for routine work","image": "26-time-management-guide.jpg"
+    "desc": "Use AI carefully for routine work",
+    "image": "26-practical-ai-for-everyday-work.jpg"
   },
   {
     "id": 27,
@@ -240,7 +265,8 @@ const products=[
     "price": 119,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Create a repeatable content process","image": "27-mindset-for-success.jpg"
+    "desc": "Create a repeatable content process",
+    "image": "27-a-beginner-guide-to-content-planning.jpg"
   },
   {
     "id": 28,
@@ -249,7 +275,8 @@ const products=[
     "price": 139,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Document the work behind a small business","image": "28-remote-work-success.jpg"
+    "desc": "Document the work behind a small business",
+    "image": "28-the-solo-business-operations-guide.jpg"
   },
   {
     "id": 29,
@@ -258,7 +285,8 @@ const products=[
     "price": 129,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Move from enquiry to handover with confidence","image": "29-ai-tools-directory.jpg"
+    "desc": "Move from enquiry to handover with confidence",
+    "image": "29-freelance-client-workflow-guide.jpg"
   },
   {
     "id": 30,
@@ -267,7 +295,8 @@ const products=[
     "price": 99,
     "icon": "📚",
     "tag": "PDF",
-    "desc": "Evaluate digital income ideas with realistic expectations","image": "30-content-creation-mastery.jpg"
+    "desc": "Evaluate digital income ideas with realistic expectations",
+    "image": "30-digital-income-reality-check.jpg"
   }
 ];
 let cart=[];
