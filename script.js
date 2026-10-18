@@ -277,7 +277,7 @@ const checkoutApiUrl=paymentServiceBase?paymentServiceBase.replace(/\/$/,"")+"/c
 const money=n=>"R"+n.toFixed(0);
 function renderProducts(list=products){
  document.getElementById("products").innerHTML=list.map(p=>`<article class="product">
- <div class="product-art"><span class="tag">${p.tag}</span>${p.icon}</div>
+ <div class="product-art"><span class="tag">${p.tag}</span>${p.image ? `<img src="${p.image}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;">` : p.icon}</div>
  <div class="product-info"><h3>${p.name}</h3><p>${p.desc}</p>
  <div class="price-row"><span class="price">${money(p.price)}</span><button class="add" onclick="addToCart(${p.id})">+ Add</button></div></div></article>`).join("");
 }
